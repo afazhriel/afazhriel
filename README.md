@@ -1,121 +1,57 @@
 <div align="center">
 
-# Abdullah Fazhriel Ilmy
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Digital+Transformation+Engineer;AI+%26+IoT+Innovator;Business+Technology+Strategist;Building+Solutions+That+Create+Real+Impact" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=ABDULLAH%20FAZHRIEL%20ILMY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Digital+Transformation+Engineer;Artificial+Intelligence+%26+IoT+Innovator;Building+Technology+For+Real+Business+Impact;Turning+Ideas+Into+Scalable+Solutions"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=afazhriel&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/afazhriel?style=for-the-badge&logo=github"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👋 About Me
 
-I am a Mechatronics & Artificial Intelligence student passionate about building technology-driven solutions that solve real-world business problems.
+```yaml
+Name: Abdullah Fazhriel Ilmy
 
-My focus is not only on developing technology but also on transforming operational challenges into measurable business impact through:
+Education:
+  Major: Mechatronics & Artificial Intelligence
 
-- Artificial Intelligence
-- Industrial IoT
-- Computer Vision
-- Data Analytics
-- Predictive Systems
-- Digital Transformation
-- Product Innovation
+Current Mission:
+  Design AI-driven and IoT-powered solutions
+  that solve operational challenges and
+  generate measurable business impact.
 
----
+Core Focus:
+  - Artificial Intelligence
+  - Industrial IoT
+  - Computer Vision
+  - Data Analytics
+  - Product Innovation
+  - Business Strategy
+  - Digital Transformation
 
-## 🌎 Vision
-
-> Bridging Technology, Business, and Innovation to Create Sustainable Industrial Impact.
-
-I aspire to become a Digital Transformation Leader capable of designing enterprise-scale solutions that improve efficiency, productivity, profitability, and sustainability.
-
----
-
-## 🛠 Technology Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,arduino,react,nodejs,tailwind,firebase,mysql,git,github,vscode"/>
-
-</p>
-
----
-
-## 📊 Digital Transformation Domains
-
-```mermaid
-mindmap
-  root((Innovation))
-    Artificial Intelligence
-      Computer Vision
-      Predictive Analytics
-      Machine Learning
-    IoT Systems
-      ESP32
-      MQTT
-      Smart Monitoring
-    Business Innovation
-      Product Strategy
-      Business Analysis
-      Digital Platforms
-    Data Analytics
-      Dashboarding
-      KPI Monitoring
-      Optimization
+Career Vision:
+  Become a Digital Transformation Leader
+  bridging technology, business, and innovation.
 ```
 
 ---
 
-## ⭐ Featured Projects
+# 🌎 Vision Statement
 
-### 🔍 VisionQC
-AI-powered quality inspection platform using Computer Vision and real-time defect analytics.
-
-### 🌱 EcoMine
-Smart energy optimization and sustainability monitoring system for mining operations.
-
-### 🚛 TruckConnect
-Digital B2B ecosystem connecting truck buyers, dealers, financing institutions, and after-sales services.
-
-### 💰 FINATRA
-AI-driven financial intelligence platform for credit risk assessment and customer insights.
-
-### 📦 PayloadSense
-AI-powered payload monitoring and optimization system for logistics and heavy equipment operations.
-
-### 🧺 Pilah-In
-Industrial IoT platform for smart laundry monitoring, machine utilization tracking, and operational automation.
+> Building enterprise-ready digital solutions that transform operational challenges into measurable business value through Artificial Intelligence, Industrial IoT, Data Analytics, and Strategic Innovation.
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🎯 Current Focus
+# 🚀 Current Focus
 
 ```text
 ✓ AI-Powered Industrial Solutions
@@ -124,32 +60,175 @@ Industrial IoT platform for smart laundry monitoring, machine utilization tracki
 ✓ Industrial IoT Development
 ✓ Product Management & Consulting
 ✓ Enterprise Technology Architecture
+✓ Astra Digital Astranauts Competition
 ```
 
 ---
 
-## 🤝 Connect With Me
+# ⚡ Technology Stack
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,arduino,react,nodejs,tailwind,firebase,mysql,git,github,vscode,docker"/>
+
+</div>
+
+---
+
+# 📊 Digital Transformation Domains
+
+```mermaid
+mindmap
+  root((Digital Transformation))
+    Artificial Intelligence
+      Machine Learning
+      Computer Vision
+      Predictive Analytics
+      Generative AI
+    Industrial IoT
+      ESP32
+      MQTT
+      Smart Monitoring
+      Automation
+    Data Analytics
+      Dashboarding
+      Business Intelligence
+      KPI Monitoring
+    Business Innovation
+      Product Strategy
+      Digital Platform
+      Market Expansion
+```
+
+---
+
+# ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 VisionQC
+AI-Powered Quality Inspection Platform
+
+### 🌱 EcoMine
+Mining Sustainability & Energy Optimization
+
+### 🚛 TruckConnect
+Commercial Vehicle Digital Marketplace
+
+</td>
+
+<td width="50%">
+
+### 💰 FINATRA
+Financial Intelligence Platform
+
+### 📦 PayloadSense
+Payload Optimization System
+
+### 🧺 Pilah-In
+Industrial IoT Smart Laundry Platform
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 Innovation Portfolio
+
+| Project | Domain | Impact |
+|----------|----------|----------|
+| VisionQC | Computer Vision | Quality Improvement |
+| EcoMine | Sustainability | Energy Optimization |
+| TruckConnect | Digital Platform | Revenue Growth |
+| FINATRA | Financial Analytics | Risk Reduction |
+| PayloadSense | AI Optimization | Productivity Increase |
+| Pilah-In | Industrial IoT | Operational Efficiency |
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afazhriel&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afazhriel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afazhriel&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌌 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afazhriel&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 Achievement Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=afazhriel&theme=algolia&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📡 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ilmyfazhriel@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/afazhriel">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+<a href="https://linkedin.com/in/abdullah-fazhriel-ilmy">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Philosophy
+
+> Technology is not the goal. Impact is the goal.
+
+> Build solutions that solve real problems, create measurable value, and drive meaningful transformation.
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Turning+Ideas+Into+Impact;Building+Technology+With+Purpose;Creating+The+Future+Through+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=500&color=00BFFF&center=true&vCenter=true&repeat=true&width=1000&lines=Artificial+Intelligence;Industrial+IoT;Digital+Transformation;Business+Innovation;Enterprise+Technology;Future+Technology+Leader"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=12,20,24,30&height=150"/>
+
+<!-- PROFILE SUMMARY -->
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afazhriel&theme=tokyonight"/>
+</p>
