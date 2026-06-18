@@ -1,7 +1,3 @@
-# Hi, I'm Abdullah Fazhriel Ilmy 👋
-
-Digital Transformation Engineer | AI & IoT Innovator | Business Technology Strategist
-
 <div align="center">
 
 # Abdullah Fazhriel Ilmy
@@ -157,13 +153,3 @@ Industrial IoT platform for smart laundry monitoring, machine utilization tracki
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Turning+Ideas+Into+Impact;Building+Technology+With+Purpose;Creating+The+Future+Through+Innovation" />
 
 </div>
-- MySQL
-- Raspberry Pi
-
-## Leadership
-
-Chairman of HIPMI PT UPI Purwakarta, actively connecting technology, entrepreneurship, and innovation.
-
-## Current Goal
-
-Building solutions that create real impact through intelligent automation and Industry 4.0 technologies.
