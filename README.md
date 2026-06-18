@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Digital+Transformation+Engineer;Artificial+Intelligence+%26+IoT+Innovator;Building+Technology+For+Real+Business+Impact;Turning+Ideas+Into+Scalable+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Digital+Transformation+Engineer;Artificial+Intelligence+%26+IoT+Innovator;Building+Technology+For+Real+Business+Impact"/>
 
 <br>
 
